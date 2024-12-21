@@ -1,7 +1,6 @@
 a.social {
   --bg-img: "";
   background-image: var(--bg-img);
-  background-size: cover;
   width: 1.5rem;
   height: 1.5rem;
   display: block;

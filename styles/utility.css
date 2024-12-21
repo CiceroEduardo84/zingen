@@ -9,7 +9,7 @@
 }
 
 .py-lg {
-  padding-inline: var(--px-lg);
+  padding-block: var(--px-lg);
 }
 
 .container {
@@ -49,7 +49,7 @@
 
 @media (width >= 80em) {
   .container {
-    --max-width: 8rem;
+    --max-width: 80rem;
   }
 
   .desktop-only {

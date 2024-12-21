@@ -9,8 +9,8 @@
   margin: 0;
   font: inherit;
 
-  -webkit-font-smooting: antialiased;
-  -moz-osx-font-smooting: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 :root {
