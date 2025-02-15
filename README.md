@@ -1,36 +1,35 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src="assets/logo.svg" width="200px" />
+<img alt="Logo - Rocketseat" src="assets/logo.svg" width="200px" />
 </p>
 
 <p align="center">
-Projeto de uma landing page de produto desenvolvido durante as aulas sobre Responsividade no curso FullStack.
+A product landing page project developed during the Responsiveness classes in the FullStack course.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+<a href="#-technology">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src="assets/Thumbnail.png" width="100%">
+<img alt="Preview of the developed project." src="assets/Thumbnail.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 
-## Projeto
+## Project
 
-Nesse projeto você vai desenvolver a Landing Page de marketing completa e responsiva de um aplicativo de Karaokê chamado Zingen.
+In this project you will develop the complete and responsive marketing Landing Page for a Karaoke application called Zingen.
 
-Vamos aprender várias técnicas de CSS e como deixar um projeto responsivo.
+We will learn several CSS techniques and how to make a project responsive.
